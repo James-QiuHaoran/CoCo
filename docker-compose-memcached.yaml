@@ -1,0 +1,15 @@
+version: '2'
+
+networks:
+  app-tier:
+    driver: bridge
+
+services:
+  memcached:
+    image: 'bitnami/memcached:latest'
+    networks:
+      - app-tier
+  myapp:
+    image: 'APPLICATION_IMAGE_NAME'
+    networks:
+      - app-tier
