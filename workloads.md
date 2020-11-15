@@ -32,6 +32,7 @@ For other options and configurations see `memtier_benchmark --help`.`
 - `--hide-histogram`: hide detailed histogram stats for GET and SET
 - `-R`: random data
 - `--print-percentiles`: set the percentiles to print at the end
+- `-c`: number of connections per client
 
 ## Nginx
 
@@ -67,7 +68,7 @@ https://github.com/giltene/wrk2
 
 ```
 make
-wrk -t2 -c100 -d30s -R2000 http://localhost:80
+./wrk -t2 -c100 -d30s -R2000 http://localhost:80
 ```
 
 - `-t`: total number of threads
