@@ -1,0 +1,11 @@
+#Mon Dec 07 14:59:31 CST 2020
+configuration*?=0FA9999972258846FCEDD5FB67A2008E431E33AD
+/gpfs/gpfs0/home/haoranq4/cs523/YCSB/jdbc/src/main/java/site/ycsb/db/flavors/DefaultDBFlavor.java=1602558928191
+/gpfs/gpfs0/home/haoranq4/cs523/YCSB/jdbc/src/main/java/site/ycsb/db/flavors/DBFlavor.java=1602558928190
+/gpfs/gpfs0/home/haoranq4/cs523/YCSB/jdbc/src/main/java/site/ycsb/db/JdbcDBClient.java=1602558928189
+/gpfs/gpfs0/home/haoranq4/cs523/YCSB/jdbc/src/main/java/site/ycsb/db/flavors/package-info.java=1602558928191
+/gpfs/gpfs0/home/haoranq4/cs523/YCSB/jdbc/src/main/java/site/ycsb/db/StatementType.java=1602558928190
+/gpfs/gpfs0/home/haoranq4/cs523/YCSB/jdbc/src/main/java/site/ycsb/db/flavors/PhoenixDBFlavor.java=1602558928191
+/gpfs/gpfs0/home/haoranq4/cs523/YCSB/jdbc/src/main/java/site/ycsb/db/package-info.java=1602558928192
+/gpfs/gpfs0/home/haoranq4/cs523/YCSB/jdbc/src/main/java/site/ycsb/db/JdbcDBCreateTable.java=1602558928190
+/gpfs/gpfs0/home/haoranq4/cs523/YCSB/jdbc/src/main/java/site/ycsb/db/JdbcDBCli.java=1602558928188

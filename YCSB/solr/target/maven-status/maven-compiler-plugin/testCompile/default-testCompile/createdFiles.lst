@@ -1,0 +1,3 @@
+site/ycsb/db/solr/SolrClientTest.class
+site/ycsb/db/solr/SolrClientCloudTest.class
+site/ycsb/db/solr/SolrClientBaseTest.class

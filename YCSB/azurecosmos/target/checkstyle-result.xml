@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/gpfs/gpfs0/home/haoranq4/cs523/YCSB/azurecosmos/src/main/java/site/ycsb/db/package-info.java">
+</file>
+<file name="/gpfs/gpfs0/home/haoranq4/cs523/YCSB/azurecosmos/src/main/java/site/ycsb/db/AzureCosmosClient.java">
+</file>
+<file name="/gpfs/gpfs0/home/haoranq4/cs523/YCSB/azurecosmos/src/main/resources/log4j.properties">
+</file>
+</checkstyle>
