@@ -10,6 +10,7 @@ To bridge this gap, this project proposes CoCo, coordinated container scheduling
 CoCo requires the support for Intel Cache Allocation Technology (CAT) and Memory Bandwidth Allocation (MBA).
 The following is the support matrix:
 
+```
 +--------------------------------------------------------------------------------------------------------+
 |                                                        | CMT | MBM | L3 CAT | L3 CDP | L2 CAT | MBA    |
 |--------------------------------------------------------+-----+-----+--------+--------+--------+--------|
@@ -27,6 +28,7 @@ The following is the support matrix:
 |--------------------------------------------------------+-----+-----+--------+--------+--------+--------|
 |Intel(R) Atom(R) processor for Server C3000             | No  | No  | No     | No     | Yes (4)| No     |
 +--------------------------------------------------------------------------------------------------------+
+```
 
 Details can be found at: https://github.com/intel/intel-cmt-cat
 
